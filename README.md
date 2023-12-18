@@ -8,7 +8,7 @@ This project aims to create a custom printf function in the C programming langua
 
 ## Features
 
-- Format specifiers: `%c`, `%s`, `%d`, `%i`, `%u`, `%x`, `%X', '%p'
+- Format specifiers: `%c`, `%s`, `%d`, `%i`, `%u`, `%x`, `%X`, `%p`,
 - Width and precision specifiers
 
 ## Usage
