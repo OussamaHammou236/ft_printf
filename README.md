@@ -23,7 +23,7 @@ To use the custom printf function in your C program, follow these steps:
 
 2. Include the ft_printf.c file in your project:
    
-   '#include "ft_printf.c"'
+   #include "ft_printf.c"
 
 3.MAKE your your program:
       
@@ -37,6 +37,5 @@ To use the custom printf function in your C program, follow these steps:
     return 0;
    }
 
-5. Compile your program:
-
-   gcc your_program.c libftprintf.a
+5.Compile your program:
+    gcc your_program.c libftprintf.a
