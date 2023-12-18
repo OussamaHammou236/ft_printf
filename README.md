@@ -24,9 +24,10 @@ To use the custom printf function in your C program, follow these steps:
    
      #include "ft_printf.c"
 
-4. MAKE your your program :
-   make
-5.Call the ft_printf function in your code:
+3.MAKE your your program:
+      make
+
+4.Call the ft_printf function in your code:
 
    int main()
    {
@@ -34,6 +35,6 @@ To use the custom printf function in your C program, follow these steps:
     return 0;
    }
 
-6. Compile your program:
+5. Compile your program:
    
    gcc your_program.c libftprintf.a
