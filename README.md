@@ -23,13 +23,14 @@ To use the custom printf function in your C program, follow these steps:
 
 2. Include the ft_printf.c file in your project:
    
-   #include "ft_printf.c"
+   '#include "ft_printf.c"'
 
 3.MAKE your your program:
       
-      make
+      'make'
 
 4.Call the ft_printf function in your code:
+   ```bash
    int main()
    {
     ft_printf("Hello, %s !\n", "world");
