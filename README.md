@@ -17,7 +17,7 @@ To use the custom printf function in your C program, follow these steps:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/ft_printf.git
+   git clone https://github.com/OussamaHammou236/ft_printf.git
    cd ft_printf
 
 2. Include the ft_printf.c file in your project:
