@@ -22,22 +22,15 @@ To use the custom printf function in your C program, follow these steps:
    cd ft_printf
 
 2. Include the ft_printf.c file in your project:
-   
-   #include "ft_printf.c"
-
-3.MAKE your your program:
-      
+      #include "ft_printf.c"   
+6. Build your program:
       make
-
-4.Call the ft_printf function in your code:
-
-   ```bash
-   int main()
-   {
-    ft_printf("Hello, %s !\n", "world");
+8. Call the ft_printf function in your code:
+    int main()
+    {
+    ft_printf("Hello, %s!\n", "world");
     return 0;
-   }
+    }
 
-5.Compile your program:
-
+10.  Compile your program:
     gcc your_program.c libftprintf.a
