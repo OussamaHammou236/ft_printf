@@ -26,7 +26,8 @@ To use the custom printf function in your C program, follow these steps:
       #include "ft_printf.c"
       
 3. Build your program:
-      `make`,
+      ```bash
+      make
 4. Call the ft_printf function in your code:
     ```bash
     int main()
@@ -36,4 +37,5 @@ To use the custom printf function in your C program, follow these steps:
     }
 
 5.  Compile your program:
+     ```bash
     `gcc your_program.c libftprintf.a`,
