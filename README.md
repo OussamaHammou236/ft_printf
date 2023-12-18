@@ -25,12 +25,12 @@ To use the custom printf function in your C program, follow these steps:
       #include "ft_printf.c"   
 6. Build your program:
       make
-8. Call the ft_printf function in your code:
+7. Call the ft_printf function in your code:
     int main()
     {
     ft_printf("Hello, %s!\n", "world");
     return 0;
     }
 
-10.  Compile your program:
+8.  Compile your program:
     gcc your_program.c libftprintf.a
