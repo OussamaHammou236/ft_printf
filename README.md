@@ -25,6 +25,7 @@ To use the custom printf function in your C program, follow these steps:
      #include "ft_printf.c"
 
 3.MAKE your your program:
+
       make
 
 4.Call the ft_printf function in your code:
@@ -32,7 +33,9 @@ To use the custom printf function in your C program, follow these steps:
    int main()
    {
     ft_printf("Hello, %s !\n", "world");
+    
     return 0;
+    
    }
 
 5. Compile your program:
