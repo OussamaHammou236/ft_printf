@@ -38,4 +38,4 @@ To use the custom printf function in your C program, follow these steps:
 
 5.  Compile your program:
      ```bash
-    `gcc your_program.c libftprintf.a`,
+    gcc your_program.c libftprintf.a
