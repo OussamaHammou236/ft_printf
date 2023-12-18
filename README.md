@@ -33,9 +33,7 @@ To use the custom printf function in your C program, follow these steps:
    int main()
    {
     ft_printf("Hello, %s !\n", "world");
-    
     return 0;
-    
    }
 
 5. Compile your program:
