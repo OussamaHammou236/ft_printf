@@ -22,7 +22,7 @@ To use the custom printf function in your C program, follow these steps:
    cd ft_printf
 
 2. Include the ft_printf.c file in your project:
-   
+      ```bash
       #include "ft_printf.c"
       
 3. Build your program:
